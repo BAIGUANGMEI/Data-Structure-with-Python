@@ -14,14 +14,21 @@
 TODO
 
 ### 4. 图
+
+TODU
+
 ## 二、排序算法
 ### 1. 冒泡排序
 
-TODO
+见`Sort Algorithm`文件夹中`Sort Algorithm/BubbleSort.py`文件
+
+冒泡排序的时间复杂度为O(n^2)，空间复杂度为O(1)，是一种稳定的排序算法
 
 ### 2. 选择排序
 
-TODO
+见`Sort Algorithm`文件夹中`Sort Algorithm/SelectionSort.py`文件
+
+选择排序的时间复杂度为O(n^2)，空间复杂度为O(1)，是一种稳定的排序算法
 
 ### 3. 插入排序
 
